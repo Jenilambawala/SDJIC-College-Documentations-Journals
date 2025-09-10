@@ -1,0 +1,13 @@
+Subject: Data Intelliegence and Visualization
+
+====== CLASS ASSIGNMENT ======
+1) What is Data warehouse? Explain the Data warehouse giving appropriate example.
+2) What is Business Intelligence? Explain its stages in detail
+3) Discuss about Data Analysis Expression (DAX) giving its key features.
+4) Explain hierarchies in Power BI.
+
+====== HOME ASSIGNMENT ======
+Explain query setting in terms of Duplicate & Reference tables and Transpose of Data
+Explain Data formatting and transformation of Data in Power BI.
+Explain Data Visualization. Give an example of data visualization using seaborn, matplotlib and bookeh.
+What is Data Acquisition and Pre-processing?
