@@ -7,7 +7,7 @@ Subject: Data Intelliegence and Visualization
 4) Explain hierarchies in Power BI.
 
 ====== HOME ASSIGNMENT ======
-Explain query setting in terms of Duplicate & Reference tables and Transpose of Data
-Explain Data formatting and transformation of Data in Power BI.
-Explain Data Visualization. Give an example of data visualization using seaborn, matplotlib and bookeh.
-What is Data Acquisition and Pre-processing?
+1) Explain query setting in terms of Duplicate & Reference tables and Transpose of Data
+2) Explain Data formatting and transformation of Data in Power BI.
+3) Explain Data Visualization. Give an example of data visualization using seaborn, matplotlib and bookeh.
+4) What is Data Acquisition and Pre-processing?
